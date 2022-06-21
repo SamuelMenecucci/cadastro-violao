@@ -1,0 +1,28 @@
+{
+  "violao": [
+    {
+      "marca": "j. white",
+      "modelo": "ah-gc100eqnss",
+      "tipo": "eletrico",
+      "ano_fabricacao": 2017,
+      "cutaway": true,
+      "cor": "#e67e22"
+    },
+    {
+      "marca": "tagima",
+      "modelo": "montananm",
+      "tipo": "eletrico",
+      "ano_fabricacao": 2021,
+      "cutaway": false,
+      "cor": "#c04000"
+    },
+    {
+      "marca": "strinberg",
+      "modelo": "sf200mgs",
+      "tipo": "eletrico",
+      "ano_fabricacao": 2020,
+      "cutaway": true,
+      "cor": "#c04000"
+    }
+  ]
+}
